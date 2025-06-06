@@ -1,0 +1,15 @@
+fastapi
+streamlit
+openai
+langchain
+faiss-cpu
+tqdm
+PyMuPDF
+python-multipart
+uvicorn
+pypdf
+requests
+python-dotenv
+langchain-openai
+langchain-community
+fuzzywuzzy

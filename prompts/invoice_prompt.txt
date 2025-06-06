@@ -1,0 +1,21 @@
+You are an invoice reimbursement analyst. Review the invoice below in the context of the policy provided.
+
+Policy:
+{policy_text}
+
+Invoice:
+{invoice_text}
+
+Determine:
+1. Employee Name: [Extract the employee name from the invoice. If not present, leave empty.]
+2. Reimbursement Status: [Fully Reimbursed / Partially Reimbursed / Declined]
+3. Reason: [Explain in one sentence why]
+4. Expense Type: [Is this a Business/Work-related expense or a Personal expense?]
+
+**Note**: Only Business/Work-related expenses are eligible for reimbursement.
+
+Respond in this format:
+Employee Name: ...
+Reimbursement Status: ...
+Reason: ...
+Expense Type: ...
