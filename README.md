@@ -30,3 +30,7 @@ Ask:
 - FAISS (Vector Store)
 - FastAPI (API)
 - Streamlit (UI)
+
+## Visualisation
+
+[!Architecture diagram](images/Screenshot%20from%202025-06-06%2012-01-44.png)
